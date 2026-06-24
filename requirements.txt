@@ -1,0 +1,11 @@
+# Python-Abhängigkeiten (getestet mit Python 3.10)
+pandas==2.2.3
+numpy==1.26.3
+scikit-learn==1.7.2
+spacy==3.8.14
+matplotlib==3.8.2
+wordcloud==1.9.6
+
+# Zusätzlich erforderlich: das deutsche spaCy-Sprachmodell.
+# Nach der Installation der obigen Pakete einmalig ausführen:
+#   python -m spacy download de_core_news_sm

@@ -1,0 +1,18 @@
+# Conda-Umgebung als Alternative zu venv/requirements.txt.
+# Erstellen mit:  conda env create -f environment.yml
+# Aktivieren mit: conda activate beschwerden-nlp
+name: beschwerden-nlp
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas=2.2.3
+  - numpy=1.26.3
+  - scikit-learn=1.7.2
+  - matplotlib=3.8.2
+  - pip
+  - pip:
+      - spacy==3.8.14
+      - wordcloud==1.9.6
+      # Deutsches Sprachmodell direkt als Wheel:
+      - https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.8.0/de_core_news_sm-3.8.0-py3-none-any.whl

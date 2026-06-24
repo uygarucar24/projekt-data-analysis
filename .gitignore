@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtuelle Umgebungen
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Hinweis: Der Ordner results/ wird bewusst versioniert, damit Prüfende die
+# erzeugten Abbildungen und den Ergebnisbericht auch ohne eigenen Lauf sehen.
+# Bei jedem erneuten Lauf von main.py werden die Dateien dort überschrieben.
+
+# Betriebssystem
+.DS_Store
+Thumbs.db

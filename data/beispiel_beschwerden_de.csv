@@ -1,0 +1,76 @@
+id,text,kategorie
+B001,"Der Bus der Linie 12 kommt morgens ständig zu spät, ich verpasse dadurch regelmäßig meinen Anschluss.",oepnv
+B002,"Die Straßenbahn ist in der Hauptverkehrszeit völlig überfüllt, man kommt kaum noch hinein.",oepnv
+B003,"Am Wochenende fährt der Bus nur einmal pro Stunde, das ist für eine Stadt viel zu selten.",oepnv
+B004,"Die Fahrpläne an der Haltestelle sind veraltet und stimmen nicht mehr mit den echten Abfahrtszeiten überein.",oepnv
+B005,"Seit der Fahrplanänderung gibt es abends keine direkte Verbindung mehr in mein Viertel.",oepnv
+B006,"Die Anzeigetafel an der Haltestelle ist seit Wochen defekt und zeigt keine Abfahrtszeiten an.",oepnv
+B007,"Im Bus funktioniert die Klimaanlage nicht, im Sommer ist die Fahrt kaum auszuhalten.",oepnv
+B008,"Die Ticketautomaten am Bahnhof sind häufig außer Betrieb, sodass man kein Ticket kaufen kann.",oepnv
+B009,"Der Bus hält oft nicht an der Haltestelle, obwohl deutlich Fahrgäste warten.",oepnv
+B010,"Die Preise für das Monatsticket im Nahverkehr wurden erneut erhöht, das ist nicht mehr bezahlbar.",oepnv
+B011,"Die Schlaglöcher in der Hauptstraße werden immer größer und beschädigen die Reifen unserer Autos.",strassen
+B012,"Der Asphalt in unserer Wohnstraße ist seit Jahren aufgerissen und wurde nie ausgebessert.",strassen
+B013,"Nach dem Winter ist die Fahrbahn voller Risse und Löcher, eine Reparatur ist dringend nötig.",strassen
+B014,"An der Kreuzung sammelt sich bei Regen das Wasser, weil der Gully verstopft ist.",strassen
+B015,"Die Straßenmarkierungen sind komplett verblasst und bei Dunkelheit nicht mehr zu erkennen.",strassen
+B016,"Auf der Umgehungsstraße fehlt seit dem Unfall die Leitplanke, das ist sehr gefährlich.",strassen
+B017,"Die Fahrbahndecke vor der Schule ist so uneben, dass Radfahrer regelmäßig stürzen.",strassen
+B018,"Seit Monaten ist die Brücke gesperrt und es gibt keine Information, wann sie repariert wird.",strassen
+B019,"Die Schlaglöcher in der Nebenstraße sind eine echte Gefahr für Motorradfahrer.",strassen
+B020,"Die Mülltonnen in unserem Viertel werden viel zu selten geleert und quellen über.",muell
+B021,"An der Bushaltestelle liegt seit Tagen Müll herum, niemand kümmert sich darum.",muell
+B022,"Die öffentlichen Papierkörbe in der Innenstadt sind ständig überfüllt.",muell
+B023,"Illegale Müllablagerungen am Waldrand nehmen immer weiter zu, das ist ein Umweltproblem.",muell
+B024,"Die Glascontainer sind seit zwei Wochen voll und werden nicht abgeholt.",muell
+B025,"Nach dem Wochenmarkt bleibt regelmäßig viel Abfall auf dem Platz liegen.",muell
+B026,"Die Sperrmüllabholung wurde nicht durchgeführt, obwohl der Termin bestätigt war.",muell
+B027,"In unserer Straße fehlen Mülleimer, deshalb landet der Abfall einfach auf dem Gehweg.",muell
+B028,"Die Verschmutzung im Stadtpark durch liegengelassenen Müll ist unerträglich geworden.",muell
+B029,"Der Lärm von der nahen Baustelle beginnt jeden Morgen schon vor sieben Uhr.",laerm
+B030,"Die Diskothek in der Innenstadt verursacht nachts unerträglichen Lärm für die Anwohner.",laerm
+B031,"Der Verkehrslärm auf der Durchgangsstraße macht ein Schlafen bei offenem Fenster unmöglich.",laerm
+B032,"Die Müllabfuhr kommt mitten in der Nacht und weckt mit dem Lärm die ganze Nachbarschaft.",laerm
+B033,"Am Wochenende feiern Jugendliche im Park bis spät in die Nacht sehr laut.",laerm
+B034,"Die Lüftungsanlage des Supermarkts brummt dauerhaft und stört unsere Nachtruhe.",laerm
+B035,"Der Fluglärm hat in den letzten Monaten deutlich zugenommen und belastet die Familien.",laerm
+B036,"Die Lautstärke der Kirmes überschreitet jedes erträgliche Maß für die Anwohner.",laerm
+B037,"Die Spielplatzgeräte im Stadtpark sind kaputt und stellen eine Verletzungsgefahr für Kinder dar.",parks
+B038,"Die Grünflächen vor dem Rathaus werden nicht mehr gepflegt und sehen verwildert aus.",parks
+B039,"Im Park fehlen Sitzbänke, ältere Menschen haben keine Möglichkeit, sich auszuruhen.",parks
+B040,"Die Bäume an der Allee wurden seit Jahren nicht beschnitten und gefährden die Sicherheit.",parks
+B041,"Der Brunnen im Stadtpark ist außer Betrieb und mit Algen überwuchert.",parks
+B042,"Die Beete in der Grünanlage sind völlig zugewuchert und ungepflegt.",parks
+B043,"Auf der Wiese im Park gibt es keine Mülleimer, deshalb liegt überall Abfall.",parks
+B044,"Die Wege im Park sind matschig und nach Regen kaum begehbar.",parks
+B045,"Beim Bürgeramt bekomme ich seit Wochen keinen Termin für die Anmeldung meines Wohnsitzes.",verwaltung
+B046,"Die Bearbeitung meines Antrags beim Amt dauert schon mehrere Monate ohne jede Rückmeldung.",verwaltung
+B047,"Die telefonische Erreichbarkeit der Stadtverwaltung ist katastrophal, niemand geht ans Telefon.",verwaltung
+B048,"Im Bürgerbüro sind die Wartezeiten extrem lang, ich musste über zwei Stunden warten.",verwaltung
+B049,"Meine E-Mail an die Verwaltung wurde nie beantwortet, obwohl es dringend war.",verwaltung
+B050,"Die Online-Terminvergabe der Stadt funktioniert nicht und stürzt ständig ab.",verwaltung
+B051,"Die Öffnungszeiten des Bürgeramts sind so knapp, dass Berufstätige keine Chance haben.",verwaltung
+B052,"Für die Beantragung des Personalausweises gibt es wochenlang keine freien Termine.",verwaltung
+B053,"Die Verwaltung verlangt Dokumente, die sie eigentlich selbst vorliegen haben müsste.",verwaltung
+B054,"Der Radweg an der Hauptstraße endet abrupt und zwingt Radfahrer auf die gefährliche Fahrbahn.",radwege
+B055,"Es fehlt eine sichere Radverbindung zwischen dem Wohngebiet und der Schule.",radwege
+B056,"Die Radwege sind so zugeparkt, dass man als Radfahrer ständig ausweichen muss.",radwege
+B057,"Im Winter werden die Radwege nicht geräumt, das ist bei Glätte sehr gefährlich.",radwege
+B058,"Die Fahrradständer am Bahnhof reichen bei weitem nicht für alle Pendler aus.",radwege
+B059,"Der Radweg ist voller Wurzelaufbrüche und dadurch kaum sicher befahrbar.",radwege
+B060,"An der Kreuzung gibt es keine Ampelschaltung für Radfahrer, das führt zu vielen Beinahe-Unfällen.",radwege
+B061,"Die Markierung der Radspur ist verblasst, Autofahrer halten sie nicht mehr ein.",radwege
+B062,"Die Straßenbeleuchtung in unserer Straße ist seit Wochen ausgefallen, abends ist es stockdunkel.",beleuchtung
+B063,"Am Fußweg zum Bahnhof fehlt jede Beleuchtung, das fühlt sich nachts sehr unsicher an.",beleuchtung
+B064,"Mehrere Laternen im Park flackern oder sind ganz aus, das schreckt Besucher ab.",beleuchtung
+B065,"Die dunkle Unterführung ist ein Angstraum, hier muss dringend Licht installiert werden.",beleuchtung
+B066,"Die defekte Beleuchtung am Spielplatz wurde trotz mehrfacher Meldung nicht repariert.",beleuchtung
+B067,"An der Bushaltestelle ist es so dunkel, dass man die Fahrpläne nicht lesen kann.",beleuchtung
+B068,"Die Beleuchtung des Parkplatzes ist ausgefallen, dadurch häufen sich die Einbrüche.",beleuchtung
+B069,"Die Baustelle in der Innenstadt blockiert seit Monaten den Zugang zu den Geschäften.",baustelle
+B070,"Wegen der Bauarbeiten ist die Zufahrt zu unserem Haus dauerhaft versperrt.",baustelle
+B071,"Die Umleitung wegen der Baustelle ist völlig unzureichend ausgeschildert.",baustelle
+B072,"Der Bauschutt der Baustelle liegt auf dem Gehweg und versperrt den Weg für Fußgänger.",baustelle
+B073,"Die Baustelle ruht seit Wochen, ohne dass irgendetwas vorangeht.",baustelle
+B074,"Durch die Bauarbeiten gibt es im ganzen Viertel täglich kilometerlange Staus.",baustelle
+B075,"Die Absperrung der Baustelle ist nachts nicht beleuchtet und damit gefährlich.",baustelle
